@@ -27,7 +27,7 @@ Launch Server (nodemon):
 #### GET /posts/
 The posts endpoint allows you to browse all published posts on The Blackshirt
 
-JQuery.ajax:
+Handlebars:
 
     {{#get "posts"}}
       {{#foreach posts}}
