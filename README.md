@@ -1,4 +1,4 @@
-<a href="www.theblackshirt.org"><img src="https://pbs.twimg.com/profile_images/932303260286779392/1U0azsl2_400x400.jpg" alt="TheBlackshirt" /></a>
+<a href="www.theblackshirt.org"><img src="https://pbs.twimg.com/profile_images/932303260286779392/1U0azsl2_400x400.jpg" alt="TheBlackshirt" width="200px;"/></a>
 <a href="https://travis-ci.org/WSPgC/theblackshirt"><img align="right" src="https://travis-ci.org/WSPgC/theblackshirt.svg?branch=master" alt="Build status" /></a>
 
 This is the repository for the Waukesha South High School Newspaper, The Blackshirt.
